@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/FragJage/xPLCron.svg?branch=master)](https://travis-ci.org/FragJage/xPLCron)
 [![Coverage Status](https://coveralls.io/repos/github/FragJage/xPLCron/badge.svg?branch=master)](https://coveralls.io/github/FragJage/xPLCron?branch=master)
-[![Coverity Scan Build](https://scan.coverity.com/projects/9372z/badge.svg)](https://scan.coverity.com/projects/9372z)
+[![Coverity Scan Build](https://scan.coverity.com/projects/9659/badge.svg)](https://scan.coverity.com/projects/9659)
 xPLCron
 ===========
 Cron for xPL protocol. 
@@ -19,7 +19,7 @@ Portability
 ===========
 Unit tests passed successfully on :
  - Windows Seven (CPU Intel Celeron)
- - (TODO) Linux Ubuntu (CPU Intel Atom)
+ - Linux Ubuntu (CPU Intel Atom)
  - Linux Raspian on Raspberry Pi (CPU ARM)
 
 For more informations
